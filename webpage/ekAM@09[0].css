@@ -1,0 +1,46 @@
+img {
+    width: 1000px;
+    border-radius: 100px;
+    background-color: chartreuse;
+    font-size: x-large;
+    padding: 80px;
+    position:static;
+    image-rendering: var(1000px);
+}
+p {
+    color: #078;
+    font-size: 30px;
+    box-sizing: var(10px);
+    caret-color: magenta;
+    font-variant: var(30px);
+}
+button {
+    color: gold;
+    font-size: 87px;
+    padding-right: 90px;
+    padding-left: 90px;
+    padding-top: 90px;
+    padding-bottom: 90px;
+
+}
+h1 {
+    color: darkviolet;
+    font-family:'Times New Roman', Times, serif ;
+    font-size: 78px;
+    box-sizing: var(109px);
+    align-content: center;
+    display: contents;
+    -ms-transform-origin-x: 29px;
+}
+h4 {
+    flood-color: calc(#354);
+    text-decoration-line: overline;
+    margin: 30px;
+    background-image: -o-linear-gradient(i);
+    font-style: italic;
+    font-weight: initial;
+    font-language-override: inherit;
+    outline-color: black;
+    color:darkgoldenrod;
+
+}
